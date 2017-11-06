@@ -1,0 +1,20 @@
+Germany : Berlin
+Puerto Rico : San Juan
+Japan : Tokyo
+Cuba : Havana
+Jamaica : Kingston
+Egypt : Cairo
+Russia : Moscow
+Spain : Madrid
+Barbados : Bridgetown
+Argentina : Buenos Aires
+Chile : Santiago
+Peru : Lima
+Singapore : Singapore
+Sweden : Stockholm
+Monaco : Monaco
+Luxembourg : Luxembourg
+Finland : Helsinki
+Ireland : Dublin
+Australia : Canberra
+Belgium : Brussels
