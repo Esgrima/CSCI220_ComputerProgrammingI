@@ -7,7 +7,8 @@ def calcWages():
     if 0.0 <= hours <= 40.0:
         total_wages = wage * hours
     elif hours > 40.0:
-        total_wages = (wage * 1.5) * hours
+        overtime = hours - 40.0
+        total_wages = (wage * 40.0) + overtime * (1.5 * wage)
 
     print("Total wages for the week: $" + str(total_wages))
 calcWages()

@@ -14,6 +14,7 @@ def decrypt(string):
             print(newMessage)
             return
 
+
 message1 = "M[h[@e^ddo#Yec[#bWj[b_[i$M[b_l[_dj^[Yeic_YXeedZeYai$M[[c[h][Z\hecc_YheX" \
            "[iWdZckYa$7f[iWh[ekhYeki_di$Ekhj^ek]^jiWdZ\[[b_d]iWh[dej\kbbokdZ[hekhemdYed" \
            "jheb$J^[h[cWoX[ckY^icWhj[hWdZl[hoZ_\\[h[djX[_d]i[bi[m^[h[$7dZedjefe\Wbbj^_im[h" \
